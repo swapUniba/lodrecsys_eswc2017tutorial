@@ -12,7 +12,7 @@ Repository info:
 |--- MappingMovielens2DBpedia-1.2.tsv: dbpedia mapping of movies in tsv format, you can download an updated version [here](https://github.com/sisinflab/LODrecsys-datasets/tree/master/Movielens1M)<br>
 
 Please, bring your laptop with you and install [MyMediaLite Recommender System Library](http://www.mymedialite.net/).
-[How to install Mono](http://www.mono-project.com/docs/getting-started/install/).
+MyMediaLite is based on Mono. [How to install Mono](http://www.mono-project.com/docs/getting-started/install/).
 
 **Slides for the hands-on session are available [here](https://docs.google.com/presentation/d/1z3nfnViCX8Mb-scaZiW-c2RdyygiccstcSEXbKG1Gx8/edit?usp=sharing).**
 
